@@ -62,5 +62,5 @@ printf("\nEnter the infix expression:");
 scanf("%s",infix);
 push('$');
 InfixToPostfix();
-printf("\nThe postfix expreesion is:%s",postfix);
+printf("\nthe postfix expresion is:%s",postfix);
 }
