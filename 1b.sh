@@ -8,5 +8,5 @@ cd $i
 done
 echo "All the directories created"
 else
-echo "Please Enter Path"
+echo "Please Enter the parameter"
 fi
