@@ -4,7 +4,12 @@ then
 set -- `ls -ld $1`
 echo "Permissions are $1"
 echo "File link $2"
-echo "File modification is done on $6 $7 and $8"
+echo "user: $3"
+echo "group: $4"
+echo "file size: $5"
+echo "month: $6"
+echo "date: $7"
+echo "time/year: $8"
 else
 echo "File doesnt exists"
 fi
