@@ -1,5 +1,5 @@
 #Write a shell script that gets executed and displays the message either "Good Morning" or "Good Afternoon" or "Good Evening"
-#depending upon time at which the user logs in.
+#depending upon time at which the user logs in..
 set -- `who`
 user=$1
 set -- `echo $4 | tr ":" " "`
