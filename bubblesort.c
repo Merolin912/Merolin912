@@ -1,5 +1,4 @@
-#Write a C program to implement the following sorting algorithms using user defined
-#functions: a. Bubble sort (Ascending order) b. Selection sort (Descending order).
+#Write a C program to implement the following sorting algorithms using user defined functions:a.Bubblesort(Ascending order)b.Selectionsort(Descending order).
 #include<stdio.h>
 void main()
 {
